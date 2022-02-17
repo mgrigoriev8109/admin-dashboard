@@ -72,14 +72,21 @@ body {
 }
 
 .side-item > img {
-  padding-left: 5px;
+  padding-left: 10px;
+  padding-top: 3px;
 }
 
 .side-item > p {
-  padding-top: 5px;
+  padding-top: 7px;
   color: white;
   font-size: 17px;
 }
+
+#dashboard {
+  font-weight: bold;
+  font-size: 19px;
+}
+
 header {
   grid-area: header;
   background-color: white;
